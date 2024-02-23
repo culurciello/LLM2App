@@ -17,7 +17,7 @@ struct MemberListView: View {
                     }
                 }
             }
-            .navigationTitle("LLM Family")
+            .navigationTitle("Our Family")
             .toolbar {
                 Button("Add Member") {
                     showAddMember = true

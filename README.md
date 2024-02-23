@@ -1,6 +1,10 @@
 # LLM App coding with no-code
 
+[![Watch the video](LLM-app.png)](LLM-app.mp4)
+
+
 Can we create an iOs App with LLMs and knowing limited coding tools? We want to enable anyone to be able to create and publish simple phone apps with limited coding knwoledge and using modern AI tools.
+
 
 
 ## Intro
